@@ -1,4 +1,4 @@
-Yii2 Image Cropper
+Yii2 Twemoji
 ==================
 
 [![Latest Stable Version](https://poser.pugx.org/cozumel/yii2-twemoji/v/stable)](https://packagist.org/packages/cozumel/yii2-twemoji) 
@@ -38,7 +38,7 @@ use cozumel\twemoji\TwemojiAsset;
 TwemojiAsset::register($this);
 ```
 
-Css
+CSS
 -----
 Because every project will have different size requirements, the css is not part of the extension.
 The default size of the emojis is 72x72. You can change this easily with some css.
