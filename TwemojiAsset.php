@@ -8,7 +8,7 @@ class TwemojiAsset extends AssetBundle {
 
     public $sourcePath = '@vendor/cozumel/yii2-twemoji';
     public $js = [
-        '//twemoji.maxcdn.com/2/twemoji.min.js?2.6',
+        '//twemoji.maxcdn.com/2/twemoji.min.js?2.7',
         'js/twemoji.js',
     ];
     public $depends = [
